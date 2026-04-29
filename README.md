@@ -1,2 +1,3 @@
 # java-area
-Getiing the area usinf java code in an easy script
+Getting the area using java code in an easy script.
+Basic Games with java madlib game.
