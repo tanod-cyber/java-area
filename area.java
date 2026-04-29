@@ -16,7 +16,6 @@ public class Main{
         int area = length * width;
 
         // Print the area
-
         System.out.println("The area is " + area + "cm^2");
 
     }
